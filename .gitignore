@@ -1,0 +1,39 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Build folders
+bin/
+build/
+dist/
+
+# Go build cache & modules
+*.log
+*.tmp
+*.cache
+*.DS_Store
+*.swp
+
+# Go module / workspace
+vendor/
+go.work
+go.work.sum
+
+# IDE / Editor stuff
+.vscode/
+.idea/
+*.iml
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage.out
+
+phase_3/phase_3
